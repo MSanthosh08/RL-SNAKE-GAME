@@ -1,0 +1,11 @@
+
+pygame
+torch
+numpy
+matplotlib
+wandb
+streamlit
+pandas
+pyyaml
+typeguard
+IPython
