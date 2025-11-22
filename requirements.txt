@@ -1,0 +1,10 @@
+
+pygame
+torch
+numpy
+matplotlib
+streamlit
+pandas
+pyyaml
+typeguard
+IPython
